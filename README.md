@@ -1,1 +1,1 @@
-# eek-2-professional-portfolio-challenge-ts
+# week-2-professional-portfolio-challenge-ts
