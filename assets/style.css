@@ -1,0 +1,22 @@
+#mainHdr {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:normal;
+    padding-top: 50px;
+}
+
+.introHdr1 {
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    line-height: 2px;
+
+
+}
+
+.introHdr2 {
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 50px;
+}
