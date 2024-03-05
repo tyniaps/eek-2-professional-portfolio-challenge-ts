@@ -56,11 +56,12 @@
 }
 
 #projectSectionHdr {
-    padding-top: 30px;
+    padding-top: 60px;
+    padding-bottom: 40px;
 }
 
 #project1Image {
-    width: 700px;
+    width: 920px;
     border-radius: 10px;
     display: block;
     margin-left: auto;
@@ -71,7 +72,7 @@
     font-size: 18px;
     background-color: #aab0a5;
     color: white;
-    width: 700px;
+    width: 920px;
     height: 30px;
     border-radius: 5px;
     margin-left: auto;
