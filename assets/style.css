@@ -124,7 +124,9 @@
 }
 
 #contactSectionHdr {
-    padding-top: 150px;
+    position:relative;
+    bottom: 150px;
+  
 }
 
 
