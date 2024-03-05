@@ -90,19 +90,6 @@
     top: 80px;
 }
 
-#project3Image {
-    width: 425px;
-    border-radius: 5px;
-    position:relative;
-    left: 800px;
-    bottom: 203px;
-}
-
-#contactSectionHdr {
-    padding-top: 150px;
-}
-
-
 #project2Card {
     font-size: 18px;
     background-color: #aab0a5;
@@ -114,5 +101,32 @@
     left: 300px;
     top: 80px;
 }
+
+#project3Image {
+    width: 425px;
+    border-radius: 5px;
+    position:relative;
+    left: 800px;
+    bottom: 203px;
+}
+
+#project3Card {
+    font-size: 18px;
+    background-color: #aab0a5;
+    color: white;
+    width: 425px;
+    height: 45px;
+    border-radius: 5px;
+    position:relative;
+    left:800px;
+    bottom:206px;
+}
+
+#contactSectionHdr {
+    padding-top: 150px;
+}
+
+
+
 
 
