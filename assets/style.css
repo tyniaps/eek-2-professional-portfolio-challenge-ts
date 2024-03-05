@@ -81,3 +81,11 @@
 #project1CardText {
     padding-top: 5px;
 }
+
+#project2Image {
+    width: 450px;
+    border-radius: 5px;
+    position:relative;
+    left: 300px;
+    top: 80px;
+}
