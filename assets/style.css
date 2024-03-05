@@ -3,6 +3,10 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 #mainHdr {
     font-size: 60px;
     font-weight: bold;
