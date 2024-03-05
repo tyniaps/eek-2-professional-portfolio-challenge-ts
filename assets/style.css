@@ -125,7 +125,7 @@
 
 #contactSectionHdr {
     position:relative;
-    bottom: 150px;
+
   
 }
 
@@ -134,9 +134,9 @@
     font-size: 25px;
 }
 
-
-
-
-
+.contactText {
+   position: relative;
+   bottom: 150px;
+}
 
 
