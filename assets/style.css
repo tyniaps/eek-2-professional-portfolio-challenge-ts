@@ -97,3 +97,22 @@
     left: 320px;
     top: 95px;
 }
+
+#contactSectionHdr {
+    padding-top: 150px;
+}
+
+
+#project2Card {
+    font-size: 18px;
+    background-color: #aab0a5;
+    color: white;
+    width: 450px;
+    height: 45px;
+    border-radius: 5px;
+    position:relative;
+    left: 300px;
+    top: 80px;
+}
+
+
