@@ -5,14 +5,14 @@
 #mainHdr {
     font-size: 60px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight:normal;
+    font-weight: bold;
     padding-top: 50px;
 }
 
 .introHdr1 {
-    font-size: 60px;
+    font-size: 37px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-weight: normal;
+    font-weight: lighter;
     line-height: 2px;
 
 
