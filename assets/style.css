@@ -62,9 +62,9 @@ html {
 }
 
 main { 
-    flex-wrap: wrap;
-    
+    flex-wrap: wrap;    
 }
+
 #project1Image {
     width: 920px;
     border-radius: 10px;
@@ -106,8 +106,7 @@ main {
     border-radius: 5px;
     position:relative;
     left: 300px;
-    top: 80px;
-    
+    top: 80px;   
 }  
 
 #project3Image {
@@ -118,7 +117,6 @@ main {
     bottom: 203px;
 }
  
-
 #project3Card {
     font-size: 18px;
     background-color: #aab0a5;
@@ -132,9 +130,7 @@ main {
 }
 
 #contactSectionHdr {
-    position:relative;
-
-  
+    position:relative;  
 }
 
 #gitHubContact,
@@ -147,4 +143,9 @@ main {
    bottom: 150px;
 }
 
+@media screen and (max-width: 768px) {
+    main {
+        flex-direction: column;
+    }  
+}
 
