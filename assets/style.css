@@ -92,9 +92,10 @@ main {
 #project2Image {
     width: 450px;
     border-radius: 5px;
-    position:relative;
-    left: 300px;
-    top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
 }
 
 #project2Card {
@@ -104,34 +105,39 @@ main {
     width: 450px;
     height: 45px;
     border-radius: 5px;
-    position:relative;
-    left: 300px;
-    top: 80px;   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }  
 
 #project3Image {
-    width: 425px;
+    width: 450px;
     border-radius: 5px;
-    position:relative;
-    left: 800px;
-    bottom: 203px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+  
 }
  
 #project3Card {
     font-size: 18px;
     background-color: #aab0a5;
     color: white;
-    width: 425px;
+    width: 450px;
     height: 45px;
     border-radius: 5px;
-    position:relative;
-    left:800px;
-    bottom:206px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
 }
 
-#contactSectionHdr {
-    position:relative;  
-}
+ #contactSectionHdr {
+    padding-top: 200px;
+   
+    
+} 
 
 #gitHubContact,
 #emailContact {
