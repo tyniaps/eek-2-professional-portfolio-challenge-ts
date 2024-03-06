@@ -157,3 +157,11 @@ main {
     }  
 }
 
+@media screen and (max-width: 495px) {
+    #project2Image,
+    #project2Card,
+    #project3Image,
+    #project3Card {
+        width: 95%;
+    }
+}
