@@ -7,9 +7,9 @@ Introduction to Advanced CSS
 The Professional Portfolio challenge was completed following deeper exploration into the topic of<br>
 Cascading Style Sheets.
 
-Building on from previously gained knowledge on HTML code and the role it plays in creating the foundations of a web-page, completing this challenge allowed for an understanding of various CSS concepts, including but not limited to CSS Selectors, The Box Model, Flex-box and Media Queries. 
+Building on from previously gained knowledge of HTML code and the role it plays in creating the foundations of a web-page, completing this challenge allowed for an understanding of various CSS concepts, including but not limited to CSS Selectors, The Box Model, Flex-box and Media Queries. 
 
-Another key learning point was understanding the elements that must be utilised in order to ensure that HTML and CSS communicate with eachother when loading a web-page. 
+Another key learning point was understanding the HMTL and CSS elements that must be used in order to ensure that the two languages communicate with eachother. This ensures that web-pages are loaded successfully, with all web-page elements and their styling visible.
 
 ** *Please note that this is not my official portfolio page.*
 
