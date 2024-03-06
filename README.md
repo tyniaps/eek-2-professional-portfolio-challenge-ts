@@ -30,3 +30,5 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 ## Link to Deployed Application
 
+https://tyniaps.github.io/week-2-professional-portfolio-challenge-ts/ 
+
