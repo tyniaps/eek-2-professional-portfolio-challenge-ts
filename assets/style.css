@@ -143,9 +143,11 @@ main {
    bottom: 150px;
 }
 
-@media screen and (max-width: 768px) {
-    main {
-        flex-direction: column;
+@media screen and (max-width: 960px) {
+    #project1Image,
+    #project1Card,
+    #project1CardText {
+        width: 95%;
     }  
 }
 
